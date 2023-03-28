@@ -1,0 +1,19 @@
+---
+layout: main
+title: Robert J. Puzniak
+---
+<div class="columns is-vcentered">
+      <div class="column is-one-quarter content">
+        <figure class="image">
+          <img src="/assets/images/Robert_Puzniak.png">
+        </figure>
+      </div>
+      <div class="column is-three-quarters content">
+        <h1>{{ site.title }}</h1>
+        {% capture description %}{% include description.md %}{% endcapture %}
+        {{ description | markdownify }}
+        <h4>Contact</h4>
+        <p>{{ site.email }} · XXX </p>
+      </div>
+</div>
+

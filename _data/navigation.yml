@@ -1,0 +1,10 @@
+- name: AI in Neuroimaging
+  link: /AI.html
+- name: Explainable AI
+  link: /XAI.html
+- name: Diffusion MRI
+  link: /dMRI.html
+- name: CV
+  link: /cv.html
+- name: About me
+  link: /about.html
