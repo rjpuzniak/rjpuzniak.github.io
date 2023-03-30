@@ -7,7 +7,7 @@ image: chiasm_tracking.png
 **Objective**: To measure the connectivity the optic chiasm in controls and people with albinism (PWA) \
 **Data**: diffusion MRI images of 9 PWA and 8 controls \
 **Methods**: analysis of diffusion MRI (dMRI) data, machine learning (logistic regression) \
-**Relevance**: [This publication](https://www.sciencedirect.com/science/article/pii/S2213158219304024) demonstrated that **dMRI measurements of optic chiasm can distinguish PWA from controls**, and can be potentially used for albinism diagnositcs.
+**Relevance**: This [scientific article](https://www.sciencedirect.com/science/article/pii/S2213158219304024) demonstrated that **dMRI measurements of optic chiasm can distinguish PWA from controls**, and can be potentially used for albinism diagnositcs.
 
 ### Overview
 
