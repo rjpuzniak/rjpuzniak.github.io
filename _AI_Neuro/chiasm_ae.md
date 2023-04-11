@@ -1,7 +1,7 @@
 ---
 title: Deep Learning-Based Detection of Malformed Optic Chiasms From MRI Images
 order: 20
-image: rule-of-thirds.png
+image: chiasm_poc.jpg
 ---
 
 **Objective**: To investigate whether Convolutional Neural Networks (CNNs) can detect structural differences between optic chiasms of controls and people with albinism (PWA) \
