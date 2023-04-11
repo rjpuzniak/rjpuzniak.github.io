@@ -4,7 +4,7 @@ order: 100
 image: tracking_visual_system.png
 ---
 
-**Objective**: To provide step-by-step guide on imaging brain connections using diffusion MRI (dMRI)  \
+**Objective**: To provide step-by-step guide on imaging brain connections using **diffusion MRI (dMRI)**  \
 **Data**: - \
 **Methods**:  - \
 **Relevance**: This [review article](https://link.springer.com/article/10.1007/s10309-020-00384-y) introduces readers to basics and best practices of dMRI analysis, as well as provides sources on how to apply to epilepsy surgery.
