@@ -1,9 +1,9 @@
 ---
 layout: page
 title: AI & Neuroimaging
-permalink: /AI
+permalink: /AI_Neuro
 ---
-{% assign projects = site.projects | sort: 'order' | reverse %}
+{% assign projects = site.AI_Neuro | sort: 'order' | reverse %}
 {% for project in projects %}
 {% assign side = forloop.index0 | modulo: 2 %}
   {% if side == 0 %}
