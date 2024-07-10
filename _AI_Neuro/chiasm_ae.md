@@ -1,6 +1,6 @@
 ---
 title: Deep Learning-Based Detection of Malformed Optic Chiasms From MRI Images
-order: 20
+order: 40
 image: chiasm_poc.jpg
 ---
 

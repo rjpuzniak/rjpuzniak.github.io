@@ -1,7 +1,7 @@
 ---
 title: CHIASM-Net: Artificial Intelligence-Based Direct Identification of Chiasmal Abnormalities in Albinism 
-order: 40
-image: chiasmnet.jpg
+order: 20
+image: chiasmnet.png
 ---
 
 **Objective**: To establish a novel **Convolutional Neural Network (CNN)** capable of detecting congenital chiasmal malformations from anatomic MRI images of the brain \
