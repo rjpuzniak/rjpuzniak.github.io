@@ -4,6 +4,8 @@
 #   link: /XAI.html
 - name: Diffusion MRI
   link: /dMRI.html
+- name: Machine Learning
+  link: /ML.html
 # - name: CV
 #   link: /cv.html
 # - name: About me

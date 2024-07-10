@@ -37,6 +37,9 @@ collections:
   dMRI:
     output: true
     permalink: /:collection/:path/
+  ML:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -48,6 +51,11 @@ defaults:
   - scope:
       path: ""
       type: "dMRI"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "ML"
     values:
       layout: "page"
 
