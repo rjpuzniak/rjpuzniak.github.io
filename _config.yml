@@ -40,6 +40,9 @@ collections:
   ML:
     output: true
     permalink: /:collection/:path/
+  Awards:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -58,6 +61,12 @@ defaults:
       type: "ML"
     values:
       layout: "page"
+  - scope:
+      path: ""
+      type: "Awards"
+    values:
+      layout: "page"
+
 
 # Build settings
 markdown: kramdown

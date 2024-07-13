@@ -7,7 +7,7 @@ image: chiasmnet.png
 **Objective**: To establish a novel **Convolutional Neural Network (CNN)** capable of detecting congenital chiasmal malformations from anatomic MRI images of the brain \
 **Data**:  T1-weighted brain images from [ABIDE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4162310/), [CHIASM](https://www.nature.com/articles/s41597-021-01080-w), [COBRE](https://www.sciencedirect.com/science/article/pii/S1053811915004310?via%3Dihub), [HCP](https://www.humanconnectome.org/), [Mind-Brain-Body](https://pubmed.ncbi.nlm.nih.gov/30747911/), [MCIC](https://link.springer.com/article/10.1007/s12021-013-9184-3) datasets and neuroimaging data from study by [Ather et al.](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.24411), for a total of 32 MRI brain images of People with Albinism (PWA) and 1708 brain images from control group. \
 **Methods**:  Deep Learning, Convolutional Neural Networks, Pytorch, TorchIO, U-Net, Explainable AI (XAI) \
-**Relevance**: This [scientific article](https://iovs.arvojournals.org/article.aspx?articleid=2792909) demonstrated that CNNs can be used to detect structural chiasmal abnormalities, as observed in human albinism, using T1-weighted MRI images. \
+**Relevance**: This [scientific article](https://iovs.arvojournals.org/article.aspx?articleid=2792909) demonstrated that CNNs can be used to detect structural chiasmal abnormalities, as observed in human albinism, using T1-weighted MRI images. 
 
 ### Overview
 
