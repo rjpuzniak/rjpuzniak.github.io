@@ -1,6 +1,6 @@
 ---
 title: Automatization of Compliance Processes
-order: 90
+order: 80
 image: sk.png
 ---
 
