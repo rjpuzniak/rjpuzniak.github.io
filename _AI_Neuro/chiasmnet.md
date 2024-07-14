@@ -1,5 +1,5 @@
 ---
-title: CHIASM-Net - Artificial Intelligence-Based Direct Identification of Chiasmal Abnormalities in Albinism 
+title: [CHIASM-Net - Artificial Intelligence-Based Direct Identification of Chiasmal Abnormalities in Albinism](https://iovs.arvojournals.org/article.aspx?articleid=2792909)
 order: 20
 image: chiasmnet.png
 ---

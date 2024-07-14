@@ -1,5 +1,5 @@
 ---
-title: Quantifying nerve decussation abnormalities in the optic chiasm
+title: [Quantifying nerve decussation abnormalities in the optic chiasm](https://www.sciencedirect.com/science/article/pii/S2213158219304024)
 order: 50
 image: chiasm_tracking.png
 ---
