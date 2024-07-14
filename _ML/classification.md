@@ -1,6 +1,6 @@
 ---
 title: AI-based Market Segmentation and Identification of High-Potential Customers
-order: 10
+order: 100
 image: aws.png
 ---
 
