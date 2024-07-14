@@ -43,6 +43,9 @@ collections:
   Awards:
     output: true
     permalink: /:collection/:path/
+  CV:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -64,6 +67,11 @@ defaults:
   - scope:
       path: ""
       type: "Awards"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "CV"
     values:
       layout: "page"
 
