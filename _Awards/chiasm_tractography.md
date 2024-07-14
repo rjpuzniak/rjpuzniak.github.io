@@ -1,5 +1,5 @@
 ---
-title: [Junior Scientist Award](https://www.augenspiegel.com/gemeinsame-tagung-der-gsnk-und-des-bod/)
+title: Junior Scientist Award
 order: 50
 image: gsnk.jpg
 ---

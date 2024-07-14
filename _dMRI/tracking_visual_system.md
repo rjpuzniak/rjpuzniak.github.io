@@ -1,5 +1,5 @@
 ---
-title: [Tracking the visual system—from the optic chiasm to primary visual cortex](https://link.springer.com/article/10.1007/s10309-020-00384-y)
+title: Tracking the visual system—from the optic chiasm to primary visual cortex
 order: 100
 image: tracking_visual_system.png
 ---

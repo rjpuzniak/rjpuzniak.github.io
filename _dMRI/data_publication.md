@@ -1,5 +1,5 @@
 ---
-title: [CHIASM, the human brain albinism and achiasma MRI dataset](https://www.nature.com/articles/s41597-021-01080-w)
+title: CHIASM, the human brain albinism and achiasma MRI dataset
 order: 10
 image: chiasm_dataset.png
 ---

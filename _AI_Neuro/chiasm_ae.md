@@ -1,5 +1,5 @@
 ---
-title: [Deep Learning-Based Detection of Malformed Optic Chiasms From MRI Images](https://www.frontiersin.org/articles/10.3389/fnins.2021.755785/full)
+title: Deep Learning-Based Detection of Malformed Optic Chiasms From MRI Images
 order: 40
 image: chiasm_poc.jpg
 ---
